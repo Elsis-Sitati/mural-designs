@@ -43,3 +43,15 @@ div#navigation {
     margin: 0%;
     padding: 0%;
 }
+div#example-menu {
+    background-color: #0D0D0D;
+}
+top-bar,
+.top-bar ul {
+    background-color: #0D0D0D;
+    margin-top: 1%;
+    margin-left: 29%;
+}
+a {
+    color: #AEBCB9;
+}
