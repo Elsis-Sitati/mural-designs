@@ -48,6 +48,8 @@ div#navigation {
 }
 div#example-menu {
     background-color: #0D0D0D;
+    position: fixed;
+    width: 100%;
 }
 top-bar,
 .top-bar ul {
