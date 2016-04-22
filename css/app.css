@@ -42,6 +42,9 @@ div#navigation {
     height: 100%;
     margin: 0%;
     padding: 0%;
+    background-image: url(../img/web-design-company.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 div#example-menu {
     background-color: #0D0D0D;
