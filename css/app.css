@@ -62,5 +62,9 @@ a {
 }
 @media screen and (max-width: 39.9375em) {
     top-bar,
-    .top-bar ul {}
+    .top-bar ul {
+        font-size: 10px;
+        margin: 0%;
+        margin-left: -3%;
+    }
 }
