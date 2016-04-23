@@ -76,5 +76,9 @@ p#hm1 {
     font-size: 57px;
 }
 @media screen and (max-width: 39.9375em) {
-    p#hm1 {}
+    p#hm1 {
+        font-size: 20px;
+        margin-left: -16%;
+        margin-top: 41%;
+    }
 }
