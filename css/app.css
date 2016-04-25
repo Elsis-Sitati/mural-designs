@@ -88,3 +88,9 @@ div#about {
     background-repeat: no-repeat;
     background-size: cover;
 }
+p#ab1 {
+    margin-top: 16%;
+    text-align: center;
+    color: #AEBCB9;
+    font-size: 34px;
+}
