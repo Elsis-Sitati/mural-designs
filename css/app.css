@@ -94,3 +94,8 @@ p#ab1 {
     color: #AEBCB9;
     font-size: 34px;
 }
+@media screen and (max-width: 39.9375em) {
+    p#ab1 {
+        font-size: 26px;
+    }
+}
