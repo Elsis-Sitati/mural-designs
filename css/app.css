@@ -114,3 +114,7 @@ p#ab1 {
     text-align: left;
     position: relative;
 }
+.grid figure {
+    margin: 0;
+    position: relative;
+}
