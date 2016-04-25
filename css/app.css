@@ -82,3 +82,9 @@ p#hm1 {
         margin-top: 41%;
     }
 }
+div#about {
+    height: 100%;
+    background-image: url(../img/web-design-agency.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
