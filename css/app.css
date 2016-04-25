@@ -118,3 +118,8 @@ p#ab1 {
     margin: 0;
     position: relative;
 }
+.grid figure img {
+    max-width: 100%;
+    display: block;
+    position: relative;
+}
