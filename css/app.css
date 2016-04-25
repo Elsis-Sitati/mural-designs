@@ -139,3 +139,11 @@ grid figcaption h3 {
 .grid figcaption span:before {
     content: 'by ';
 }
+.grid figcaption a {
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 2px;
+    display: inline-block;
+    background: #ed4e6e;
+    color: #fff;
+}
