@@ -316,3 +316,14 @@ div#projects {
 .demo-3 .grid a:hover figcaption h2 {
     transform: translateY(5px);
 }
+@media screen and (max-width: 58em) {
+    .grid a {
+        width: 33.333%;
+    }
+    .grid a:nth-child(odd) {
+        margin: 0;
+    }
+    .grid a:nth-child(3n-1) {
+        margin: 30px 0 -30px 0;
+    }
+}
