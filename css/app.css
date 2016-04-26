@@ -227,3 +227,13 @@ div#projects {
     font-size: 130%;
     transition: transform 0.3s;
 }
+.grid figcaption p {
+    padding: 0 20px;
+    color: #aaa;
+    font-weight: 300;
+    transition: opacity 0.3s, transform 0.3s;
+}
+.grid figcaption h2,
+.grid figcaption p {
+    transform: translateY(50px);
+}
