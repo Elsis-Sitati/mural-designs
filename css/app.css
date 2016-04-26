@@ -307,3 +307,12 @@ div#projects {
     transition-delay: 0s;
     transition-duration: 0.1s;
 }
+.demo-3 body {
+    background: #52be7f;
+}
+.demo-3 .grid figcaption h2 {
+    color: #52be7f;
+}
+.demo-3 .grid a:hover figcaption h2 {
+    transform: translateY(5px);
+}
