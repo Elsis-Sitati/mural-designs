@@ -349,3 +349,14 @@ div#projects {
         padding: 0 10px;
     }
 }
+@media screen and (max-width: 27em) {
+    .grid {
+        max-width: 250px;
+    }
+    .grid a {
+        width: 100%;
+    }
+    .grid a:nth-child(even) {
+        margin: 0;
+    }
+}
