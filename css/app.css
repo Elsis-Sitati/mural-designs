@@ -292,3 +292,7 @@ div#projects {
     font-weight: 300;
     transform: translateY(100%);
 }
+.demo-2 .grid a:hover figure button {
+    transition-timing-function: ease-out;
+    transform: translateY(0);
+}
