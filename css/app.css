@@ -282,3 +282,13 @@ div#projects {
 .demo-2 .grid figcaption p {
     transition-delay: 0.05s;
 }
+.demo-2 .grid figure button {
+    bottom: 0;
+    left: 0;
+    padding: 15px;
+    width: 100%;
+    background: #fff;
+    color: #333;
+    font-weight: 300;
+    transform: translateY(100%);
+}
