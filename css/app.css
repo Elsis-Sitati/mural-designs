@@ -246,3 +246,9 @@ div#projects {
     font-weight: bold;
     transition: opacity 0.3s, transform 0.3s;
 }
+.grid figcaption,
+.grid figcaption h2,
+.grid figcaption p,
+.grid figure button {
+    backface-visibility: hidden;
+}
