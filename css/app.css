@@ -263,7 +263,7 @@ div#projects {
 .grid- svg path {
     fill: #fff;
 }
-.grid a:hover figure img {
+.grid- a:hover figure img {
     opacity: 1;
 }
 .grid- a:hover figcaption h2,
@@ -272,4 +272,13 @@ div#projects {
 }
 .grid- a:hover figcaption p {
     opacity: 0;
+}
+.demo-2 body {
+    background: #e74c3c;
+}
+.demo-2 .grid- figcaption h2 {
+    color: #e74c3c;
+}
+.demo-2 .grid- figcaption p {
+    transition-delay: 0.05s;
 }
