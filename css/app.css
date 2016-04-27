@@ -187,3 +187,9 @@ div#projects {
     max-width: 1000px;
     width: 90%;
 }
+.grid- a {
+    float: left;
+    max-width: 250px;
+    width: 25%;
+    color: #333;
+}
