@@ -246,9 +246,20 @@ div#projects {
     font-weight: bold;
     transition: opacity 0.3s, transform 0.3s;
 }
-.grid figcaption,
-.grid figcaption h2,
-.grid figcaption p,
-.grid figure button {
+.grid- figcaption,
+.grid- figcaption h2,
+.grid- figcaption p,
+.grid- figure button {
     backface-visibility: hidden;
+}
+.grid- svg {
+    position: absolute;
+    top: -1px;
+    /* fixes rendering issue in FF */
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+}
+.grid- svg path {
+    fill: #fff;
 }
