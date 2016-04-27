@@ -296,3 +296,14 @@ div#projects {
     transition-timing-function: ease-out;
     transform: translateY(0);
 }
+.demo-2 .grid- figcaption h2,
+.demo-2 .grid- figcaption p,
+.demo-3 .grid- figcaption h2,
+.demo-3 .grid- figcaption p {
+    timing-function: cubic-bezier(0.250, 0.250, 0.115, 1.445);
+}
+.demo-2 .grid- a:hover figcaption p,
+.demo-3 .grid- a:hover figcaption p {
+    transition-delay: 0s;
+    transition-duration: 0.1s;
+}
