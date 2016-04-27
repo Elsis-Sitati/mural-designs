@@ -263,3 +263,13 @@ div#projects {
 .grid- svg path {
     fill: #fff;
 }
+.grid a:hover figure img {
+    opacity: 1;
+}
+.grid- a:hover figcaption h2,
+.grid- a:hover figcaption p {
+    transform: translateY(0);
+}
+.grid- a:hover figcaption p {
+    opacity: 0;
+}
